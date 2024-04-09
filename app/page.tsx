@@ -39,7 +39,7 @@ export default function Home() {
           )}
           href={"https://chromewebstore.google.com/detail/webgpt-ai-bot-for-website/mechmfoiihmkiokjejfhemjdhganaafm"}
         >
-          Download Chrome Extention
+          Download Chrome Extension
         </Link>
       </MaxWidthWrapper>
 
