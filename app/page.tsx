@@ -114,7 +114,7 @@ export default function Home() {
                     Step 1
                   </span>
                   <span className="text-xl font-semibold">
-                    Sign up for a Free Account
+                    Download extension
                   </span>
                 </div>
               </li>
@@ -124,8 +124,8 @@ export default function Home() {
                     Step 2
                   </span>
                   <span className="text-xl font-semibold">
-                    Choose a <span className="text-blue-600">Language</span> &{" "}
-                    <span className="text-blue-600">Scenario</span>
+                    Open <span className="text-blue-600">webgpt</span> &{" "}
+                    and select Chat with site
                   </span>
                 </div>
               </li>
@@ -135,7 +135,7 @@ export default function Home() {
                     Step 3
                   </span>
                   <span className="text-xl font-semibold">
-                    Start Your Speaking Session
+                    To chat with docs or pdf. Open any doc or pdf on browser and follow step 1 and 2
                   </span>
                 </div>
               </li>
@@ -277,7 +277,7 @@ export default function Home() {
                   Powered by
                 </h2>
                 <p className="mt-4 text-lg text-gray-600">
-                  These are the technologies behind the scene that make Convo
+                  These are the technologies behind the scene that make WebGPT
                   possible
                 </p>
               </div>
