@@ -14,7 +14,7 @@ export default function Footer() {
           © {new Date().getFullYear()}{" "}
           <a
             target="_blank"
-            href="https://tryconvo.vercel.app/"
+            href="https://chromewebstore.google.com/detail/webgpt-ai-bot-for-website/mechmfoiihmkiokjejfhemjdhganaafm"
             className="hover:underline"
           >
             WebGPT

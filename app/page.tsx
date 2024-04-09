@@ -354,7 +354,7 @@ export default function Home() {
                   Feedback
                 </h2>
                 <p className="mt-4 text-lg text-gray-600">
-                  What are people saying about Convo
+                  What are people saying about WebGPT
                 </p>
               </div>
             </div>

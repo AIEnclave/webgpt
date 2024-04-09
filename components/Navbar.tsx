@@ -25,7 +25,7 @@ const Navbar = () => {
           >
             <Image
               src="/logo.png"
-              alt="convo logo"
+              alt="webgpt logo"
               width={50}
               height={50}
               quality={100}
