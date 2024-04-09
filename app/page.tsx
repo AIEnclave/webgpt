@@ -17,7 +17,7 @@ export default function Home() {
       <MaxWidthWrapper className="mt-10 flex flex-col items-center justify-center text-center sm:mt-12">
         <div className="mx-auto mb-4 flex max-w-fit items-center justify-center space-x-2 overflow-hidden rounded-full border border-gray-200 bg-white px-7 py-2 shadow-md backdrop-blur transition-all hover:border-gray-300 hover:bg-white/50">
           <p className="text-sm font-semibold text-gray-700">
-            Try WebGPT Extension for Free
+            Try WebGPT Browser Extension for Free
           </p>
         </div>
 
@@ -39,7 +39,7 @@ export default function Home() {
           )}
           href={"https://chromewebstore.google.com/detail/webgpt-ai-bot-for-website/mechmfoiihmkiokjejfhemjdhganaafm"}
         >
-          Download Now
+          Download Chrome Extention
         </Link>
       </MaxWidthWrapper>
 
@@ -95,15 +95,14 @@ export default function Home() {
       <MaxWidthWrapper>
         <div className="mx-auto mt-20 flex max-w-5xl flex-col gap-20 sm:mt-40 sm:gap-40 ">
           {/* Intro */}
-          {/* <div>
+          <div>
             <div className="mb-6 px-6 lg:px-8">
               <div className="mx-auto max-w-2xl sm:text-center">
                 <h2 className="mt-2 text-4xl font-bold text-gray-900 sm:text-5xl">
-                  Download the WebGPT
+                  Download WebGPT Chrome Extension
                 </h2>
                 <p className="mt-4 text-lg text-gray-600">
-                  Improving your spoken fluency has never been easier than with
-                  Convo.
+                  Enhance your browsing experience: Ask questions about the current page or request a summary of its content.
                 </p>
               </div>
             </div>
@@ -141,7 +140,7 @@ export default function Home() {
                 </div>
               </li>
             </ol>
-          </div> */}
+          </div>
 
           {/* Scenarios */}
           <div>

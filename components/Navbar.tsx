@@ -47,7 +47,15 @@ const Navbar = () => {
                 Dashboard
               </Link>
             )}
-
+                  <Link
+                    href="https://codewithashwani.netlify.app/"
+                    className={buttonVariants({
+                      variant: "link",
+                      size: "sm",
+                    })}
+                  >
+                    Connect with the Developer
+                  </Link>
             {/* <div className="hidden items-center space-x-4 sm:flex">
               {!isUserSignedIn ? (
                 <>
