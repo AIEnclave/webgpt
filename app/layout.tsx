@@ -5,8 +5,8 @@ import { cn } from "@/lib/utils";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "WebGPT - AI ally for webpages",
-  description: "Speech focused language learning",
+  title: "WebGPT - Your AI Ally",
+  description: "Browser AI Ally. Chat with webpage",
 };
 
 export default function RootLayout({
