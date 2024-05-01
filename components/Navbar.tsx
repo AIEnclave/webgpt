@@ -54,7 +54,7 @@ const Navbar = () => {
                       size: "sm",
                     })}
                   >
-                    Connect with the Developer
+                    Connect
                   </Link>
             {/* <div className="hidden items-center space-x-4 sm:flex">
               {!isUserSignedIn ? (
