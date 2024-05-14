@@ -1,16 +1,8 @@
-import MaxWidthWrapper from "@/components/MaxWidthWrapper";
-import { buttonVariants } from "@/components/ui/button";
-import { Card, CardDescription, CardTitle } from "@/components/ui/card";
-
-import Link from "next/link";
-import Image from "next/image";
-import { cn } from "@/lib/utils";
-import Footer from "@/components/Footer";
-import Navbar from "@/components/Navbar";
+// @ts-nocheck
 
 export default function Home() {
   return (
-    <div style={{padding: "20px"}}>
+    <div style={{ padding: "20px" }}>
       <span
         style={{
           display: "block",
