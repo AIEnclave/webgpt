@@ -16,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="light">
-      <meta name="google-site-verification" content="2dLFkWirgGTfJU5-58zDRUgG25YjSCW03qXaeIbYwxw" />
+      <meta name="google-site-verification" content="4Dg86CmrTyLnehJ-87gb8HlECGgXZcksqOJ59b5bG70" />
       <body
         className={cn(
           "grainy flex min-h-screen flex-col font-sans antialiased",
